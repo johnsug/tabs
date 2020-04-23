@@ -1,7 +1,7 @@
 
 | Song | Project | Status |
 |------|---------|--------|
-| Sound Reflections | Jobert 5 | Tabbed |
+| [Sound Reflections](https://github.com/johnsug/tabs/blob/master/sound_reflections.md) | Jobert 5 | Tabbed |
 | Dodged a Bullet | Jobert 5 |  |
 | Great Escapes | Jobert 5 |  |
 | When You Believe It You'll See It | Jobert 5 |  |
