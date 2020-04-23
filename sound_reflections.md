@@ -1,8 +1,7 @@
-/*
+```
 Sound Reflections Base Line
 By: John Sugden
 v1.0 4/24/2020
-/*
 
 Intro #1
 G|
@@ -33,3 +32,4 @@ G|
 D|				  67  76
 A| 4 4/6/7 0000 77  66	 4 4/6/7 0000 
 E|									  77777777
+```
