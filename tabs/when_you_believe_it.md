@@ -1,6 +1,7 @@
+```python
 When You Believe It You'll See It Bass Tab (incomplete)
 By John Sugden
-v1 - 4/24/2020
+Last Update: 4/24/2020
 
 chorus (starting at 0:54)
 G|                |               |       |       |       |
@@ -13,3 +14,4 @@ G|      7     | 66 6h7 6         |      7     | 66 6h7 6h7    |
 D| 00 0       |          77777 6 | 00 0       |               |
 A|            |                  |            |               |
 E|            |                  |            |               |
+```
