@@ -20,3 +20,12 @@
 | Operation Bluebird | JATH |  |
 | St. Cats | JATH |  |
 | Not So Much | JATH |  |
+
+standard footer:
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
+| ~  vibrato
+| +  harmonic
+| x  mute note
