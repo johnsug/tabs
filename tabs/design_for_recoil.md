@@ -1,7 +1,7 @@
 ```python
 Design for Recoil Base Line
 By John Sugden
-v1.0 4/24/2020
+Last Update: 4/24/2020
 
 Intro #1
 G|
