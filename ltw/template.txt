@@ -16,3 +16,12 @@ G|
 D|
 A|
 E|
+
+Legend:
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
+| ~  vibrato
+| +  harmonic
+| x  mute note
