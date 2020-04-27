@@ -1,4 +1,4 @@
-Design for Recoil Base Tab
+Design for Recoil Bass Tab
 By John Sugden
 Last Update: 4/24/2020
 
@@ -28,6 +28,15 @@ E|                                    77
 
 Chorus
 G|
-D|                67  76
-A| 4 4/6/7 0000 77  66   4 4/6/7 0000        6/7
-E|                                   7777777
+D|                6/7   7\6
+A| 4 4/6/7 0000 77   66    4 4/6/7 0000        6/7
+E|                                     7777777
+
+Legend:
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
+| ~  vibrato
+| +  harmonic
+| x  mute note
