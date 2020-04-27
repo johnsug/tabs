@@ -1,10 +1,10 @@
 
 | Song | Project | Status |
 |------|---------|--------|
-| [Sound Reflections](https://raw.githubusercontent.com/johnsug/tabs/master/tabs/sound_reflections.md) | Jobert 5 | Tabbed |
-| Dodged a Bullet | Jobert 5 |  |
-| Great Escapes | Jobert 5 |  |
-| When You Believe It You'll See It | Jobert 5 |  |
+| [Design for Recoil](https://raw.githubusercontent.com/johnsug/tabs/master/tabs/design_for_recoil.md) | Lose to Win | Tabbed |
+| [When You Believe It You'll See It](https://raw.githubusercontent.com/johnsug/tabs/master/tabs/when_you_believe_it.md) | Lose to Win | Semi-tabbed |
+| [Great Escapes](https://raw.githubusercontent.com/johnsug/tabs/master/tabs/great_escapes.md) | Lose to Win | Working |
+| Dodged a Bullet | Lose to Win |  |
 |------------------------------------|---------|--------|
 | Can't Miss The Show | Pitch |  |
 | Come Back | Pitch |  |
