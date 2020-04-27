@@ -1,0 +1,21 @@
+```python
+Great Escapes Bass Tab (incomplete)
+By John Sugden
+Last Update: 4/27/2020
+
+G|
+D|
+A|
+E|
+
+G|
+D|
+A|
+E|
+
+G|
+D|
+A|
+E|
+
+```
